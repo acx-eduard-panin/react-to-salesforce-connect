@@ -1,0 +1,29 @@
+{
+  "swagger": "2.0",
+  "swaggerDefinition": {
+    "openapi": "3.0.1",
+    "info": {
+      "title": "NodeJs to Salesforce connection",
+      "version": "1.0.0"
+    },
+    "basePath": "/",
+    "components": {
+      "securitySchemes": {
+        "oAuthSample": {
+          "type": "oauth2",
+          "flows": {
+            "authorizationCode": {
+              "authorizationUrl": "/auth/login",
+              "tokenUrl": "/auth/token",
+              "scopes": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "apis": [
+    "./web-service/routes/data.js",
+    "./web-service/routes/auth.js"
+  ]
+}
