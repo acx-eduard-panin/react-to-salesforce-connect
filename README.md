@@ -15,6 +15,7 @@ The project shows how to create an integration React App(NodeJs server side) wit
 - [Swagger](https://swagger.io/docs/specification/authentication/)
 - [Original Resource](https://github.com/pozil/salesforce-react-integration)
 - [Connect to Salesforce](https://trailhead.salesforce.com/en/content/learn/projects/access-salesforce-data-with-lightning-web-components-open-source/connect-to-salesforce)
+- [REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_list.htm)
 
 # Screens
 
