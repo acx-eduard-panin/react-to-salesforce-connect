@@ -15,11 +15,13 @@ The project shows how to create an integration React App(NodeJs server side) wit
 - [Original Resource](https://github.com/pozil/salesforce-react-integration)
 - [Connect to Salesforce](https://trailhead.salesforce.com/en/content/learn/projects/access-salesforce-data-with-lightning-web-components-open-source/connect-to-salesforce)
 
-#Screens
+# Screens
 
-###Swagger
+### Swagger
 ![Swagger](https://raw.githubusercontent.com/panin-eduard-acx/react-to-salesforce-connect/master/screens/swagger-ui.png)
-###Login Page
+
+### Login Page
 ![Login Page](https://raw.githubusercontent.com/panin-eduard-acx/react-to-salesforce-connect/master/screens/login-page.png)
-###Create Account
+
+### Create Account
 ![Create Account](https://raw.githubusercontent.com/panin-eduard-acx/react-to-salesforce-connect/master/screens/create-record.png)
