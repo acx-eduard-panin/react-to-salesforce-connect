@@ -18,7 +18,7 @@ The project shows how to create an integration React App(NodeJs server side) wit
 # Screens
 
 ### Swagger
-![Swagger](https://raw.githubusercontent.com/panin-eduard-acx/react-to-salesforce-connect/master/screens/swagger-ui.png)
+![Swagger](https://raw.githubusercontent.com/panin-eduard-acx/react-to-salesforce-connect/master/screens/swagger.png)
 
 ### Login Page
 ![Login Page](https://raw.githubusercontent.com/panin-eduard-acx/react-to-salesforce-connect/master/screens/login-page.png)

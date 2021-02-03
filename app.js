@@ -9,7 +9,7 @@ const swaggerConfig = require('./config/swagger');
 require('dotenv').config();
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 8888;
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
