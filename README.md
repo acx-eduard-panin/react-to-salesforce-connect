@@ -9,6 +9,7 @@ The project shows how to create an integration React App(NodeJs server side) wit
 
 # Documentation
 - [Swagger](http://localhost:8888/api-doc)
+- [JSforce library](https://jsforce.github.io/document/)
 
 # Links
 - [Swagger](https://swagger.io/docs/specification/authentication/)
